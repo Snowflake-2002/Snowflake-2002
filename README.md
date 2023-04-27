@@ -1,6 +1,6 @@
-- 👋 Hi, I’m yonas
-- 👀 I’m interested in ... football and self improvement
-- 🌱 I’m currently learning ...I.T
+- 👋 Hi, 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning ....IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@snowflake_2002_
 
